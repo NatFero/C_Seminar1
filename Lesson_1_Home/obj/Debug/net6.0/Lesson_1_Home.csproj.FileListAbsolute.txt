@@ -1,0 +1,15 @@
+D:\C#\Seminar_1\Lesson_1_Home\bin\Debug\net6.0\Lesson_1_Home.exe
+D:\C#\Seminar_1\Lesson_1_Home\bin\Debug\net6.0\Lesson_1_Home.deps.json
+D:\C#\Seminar_1\Lesson_1_Home\bin\Debug\net6.0\Lesson_1_Home.runtimeconfig.json
+D:\C#\Seminar_1\Lesson_1_Home\bin\Debug\net6.0\Lesson_1_Home.dll
+D:\C#\Seminar_1\Lesson_1_Home\bin\Debug\net6.0\Lesson_1_Home.pdb
+D:\C#\Seminar_1\Lesson_1_Home\obj\Debug\net6.0\Lesson_1_Home.csproj.AssemblyReference.cache
+D:\C#\Seminar_1\Lesson_1_Home\obj\Debug\net6.0\Lesson_1_Home.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Seminar_1\Lesson_1_Home\obj\Debug\net6.0\Lesson_1_Home.AssemblyInfoInputs.cache
+D:\C#\Seminar_1\Lesson_1_Home\obj\Debug\net6.0\Lesson_1_Home.AssemblyInfo.cs
+D:\C#\Seminar_1\Lesson_1_Home\obj\Debug\net6.0\Lesson_1_Home.csproj.CoreCompileInputs.cache
+D:\C#\Seminar_1\Lesson_1_Home\obj\Debug\net6.0\Lesson_1_Home.dll
+D:\C#\Seminar_1\Lesson_1_Home\obj\Debug\net6.0\refint\Lesson_1_Home.dll
+D:\C#\Seminar_1\Lesson_1_Home\obj\Debug\net6.0\Lesson_1_Home.pdb
+D:\C#\Seminar_1\Lesson_1_Home\obj\Debug\net6.0\Lesson_1_Home.genruntimeconfig.cache
+D:\C#\Seminar_1\Lesson_1_Home\obj\Debug\net6.0\ref\Lesson_1_Home.dll
